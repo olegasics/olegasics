@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My stats](https://codeium.com/profile/bumcharik/card.png)
+[![My stats](https://codeium.com/profile/bumcharik/card.png)](https://codeium.com/profile/bumcharik)
 
 <!--
 **olegasics/olegasics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
